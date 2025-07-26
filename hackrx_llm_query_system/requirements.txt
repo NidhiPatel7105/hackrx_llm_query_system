@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-docx
+pdfplumber
+sentence-transformers
+openai
+pinecone-client
+requests
+pydantic
+python-multipart
