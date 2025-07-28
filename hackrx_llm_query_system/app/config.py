@@ -2,7 +2,7 @@
 import os
 
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY", "pcsk_6umudF_LTcVTUy6EDM4uxFyWhcJY6Zh2CudZXeeJCPFHf95ob8vqG8MG4AetRpvfrEdoKK")
-PINECONE_ENV = os.getenv("PINECONE_ENV", "your-pinecone-env")
+PINECONE_ENV = os.getenv("PINECONE_ENV", "us-east-1")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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
 
 ")
